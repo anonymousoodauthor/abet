@@ -63,6 +63,6 @@ If you would like to reproduce Figure 2, run this with the flag `--tsne` and the
 
 AbeT achieves state-of-the-art performance averaged on all standard OOD datasets in classification. Changes from our submission to ICML on OpenReview are bolded, rather than the best results.
 
-![results](pngs/main_table.png)
+![results](pngs/main_table.jpg)
 
 For more information about our Segmentation and Object Detection results, please see the `segmentation` and `object_detection` 
